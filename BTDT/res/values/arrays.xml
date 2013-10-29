@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_options_array">
+        <item >@string/menu_item_help</item>
+        <item>@string/menu_item_play</item>
+        <item>@string/menu_item_settings</item>
+        <item>@string/menu_item_scores</item>
+    </string-array>
+    <string-array name="gender_option_array">
+        <item >@string/gender_male</item>
+        <item >@string/gender_female</item>
+        <item >@string/gender_neutral</item>
+    </string-array>
+</resources>
