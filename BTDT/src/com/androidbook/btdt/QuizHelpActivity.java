@@ -49,8 +49,7 @@ public class QuizHelpActivity extends QuizActivity {
         return true;
     }
     
-    @SuppressWarnings("deprecation")
-	public String inputStreamToString(InputStream is) throws IOException {
+    public String inputStreamToString(InputStream is) throws IOException {
     	StringBuffer sBuffer = new StringBuffer();
     	DataInputStream dataIO = new DataInputStream(is);
     	String strLine = null;
